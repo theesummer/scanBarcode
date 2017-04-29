@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					6727C0351EB387CD00575DD0 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = UD54A32P63;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -262,7 +263,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = UD54A32P63;
 				INFOPLIST_FILE = scanBarcode/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sk.scanBarcode;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -274,7 +277,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = UD54A32P63;
 				INFOPLIST_FILE = scanBarcode/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sk.scanBarcode;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -301,6 +306,7 @@
 				6727C04A1EB387CD00575DD0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

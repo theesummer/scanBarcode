@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  scanBarcode
 //
-//  Created by Swaroop Kurra on 28/04/17.
+//  Created by Swaroop Kurra on 22/02/17.
 //  Copyright © 2017 Swaroop Kurra. All rights reserved.
 //
 
